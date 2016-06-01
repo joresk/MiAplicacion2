@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Asistente</string>
+    <string name="primer_pregunta">¡BIENVENIDO AL ASISTENTE DE APOYO PARA VICTIMAS DE VIOLENCIA DE GENERO!\n
+
+                                 </string>
+    <string name="btn_s">SI</string>
+    <string name="btn_n">NO</string>
+</resources>
